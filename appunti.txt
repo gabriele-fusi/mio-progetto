@@ -1,0 +1,1 @@
+Ciao mondo, questo e' il mio primo progetto Git!
